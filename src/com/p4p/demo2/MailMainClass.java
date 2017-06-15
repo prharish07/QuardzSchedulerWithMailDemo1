@@ -15,10 +15,10 @@ public class MailMainClass {
 	public static void main(String [] args)
 	{
 		String host="smtpout.secureserver.net";  
-		  final String user="rpanakkal@sajix.com";//change accordingly  
-		  final String password="psr$ub34910";//change accordingly  
+		  final String user="testmail@gmail.com";//Keep Your mail ID 
+		  final String password="password";//enter your password  
 		    
-		  String to="pr.harish@yahoo.com";//change accordingly  
+		  String to="tomail@test.com";//Enter TO mail Address
 		  
 		   //Get the session object  
 		   Properties props = new Properties();  
